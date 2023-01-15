@@ -1,4 +1,4 @@
-# Churn-Prediction
+# Predicting customer churn: A supervised learning study on identifying at-risk customers and analyzing influential factors
 
 In this project, using supervised learning models, we will identify cell phone service customers who are more likely to stop using the service in the future and create a model that can predict if a certain customer will drop the service. 
 
